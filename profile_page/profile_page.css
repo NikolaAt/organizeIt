@@ -1,0 +1,157 @@
+@font-face {
+    font-family: Handwritten;
+    src: url("../BASTARDUSSANS.ttf");
+}
+body{
+    /*background-image: url("../images/background/9.jpg");*/
+    background-color: lightslategrey;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    display: block;
+
+}
+
+#loginMessage{
+    color: cornsilk;
+    margin-left: 30%;
+    margin-top: -4%;
+    font-size: 300%;
+
+}
+#savedChanges{
+    margin-top: 2%;
+    color: cornsilk;
+    margin-left: 35%;
+    font-size: 200%;
+}
+
+#tasks{
+    display: inline-block;
+    margin-top: 1%;
+    margin-left: 20%;
+
+}
+#tasks2{
+    display: inline-block;
+    margin-left: 3%;
+}
+
+#homepageRedir{
+    height: 55px;
+    width: 130px;
+    background-color: cornsilk;
+    border: hidden;
+    border-radius: 20%;
+    opacity: 0.75;
+    display: inline-block;
+    padding-top: 1%;
+    padding-left: 0.3em;
+
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 160%;
+    color: black;
+    text-decoration: none;
+    opacity: 1;
+
+}
+#homepageRedir:hover{
+    color: black;
+    box-shadow:0 0 8px 5px cornsilk;
+}
+textarea{
+    font-size: 170%;
+    background-image: url("../images/background/13.jpg");
+    opacity:0.9;
+    color: black;
+    width: 18em;
+    height: 15em;
+    font-family: Handwritten;
+
+}
+button{
+    height: 30px;
+    width: 32%;
+    background-color: cornsilk;
+    border: hidden;
+    border-radius: 2%;
+    opacity: 0.9;
+    display: inline-block;
+    color: black;
+    font-size: 120%;
+
+    margin-top: 1%;
+}
+button:hover{
+    box-shadow:0 0 3px 3px cornsilk;
+}
+#mediaText{
+    color: cornsilk;
+    font-size: 200%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.socialMediaPic{
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+#facePic{
+    margin-left: 5%;
+    background-image: url("../images/socialMedia/face2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#facePic:hover{
+    background-image: url("../images/socialMedia/face1.jpg");
+}
+#gmailPic{
+    background-image: url("../images/socialMedia/gmail2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#gmailPic:hover{
+    background-image: url("../images/socialMedia/gmail.jpg");
+}
+#instaPic{
+    background-image: url("../images/socialMedia/instagram2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#instaPic:hover{
+    background-image: url("../images/socialMedia/instagram.jpg");
+}
+#linkedPic{
+    background-image: url("../images/socialMedia/linked2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#linkedPic:hover{
+    background-image: url("../images/socialMedia/linked.jpg");
+}
+#twitPic{
+    background-image: url("../images/socialMedia/twitter2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#twitPic:hover{
+    background-image: url("../images/socialMedia/twitter.jpg");
+}
+#vinePic{
+    background-image: url("../images/socialMedia/vine2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#vinePic:hover{
+    background-image: url("../images/socialMedia/vine.jpg");
+}
+#youtubePic{
+    background-image: url("../images/socialMedia/youtube2.jpg");
+    width: 70px;
+    height: 70px;
+}
+#youtubePic:hover{
+    background-image: url("../images/socialMedia/youtube.jpg");
+}
