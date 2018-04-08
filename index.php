@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kolio PC
- * Date: 8.7.2017 г.
- * Time: 13:05
- */
+
 
 require_once "app.php";
 require_once "dbQuotes.php";

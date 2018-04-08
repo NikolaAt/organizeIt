@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kolio PC
- * Date: 11.7.2017 г.
- * Time: 12:14
- */
+
 require_once "../app.php";
 $_SESSION['loginMessage']='';
 $_SESSION['saveChanges']='';

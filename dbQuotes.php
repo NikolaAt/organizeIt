@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kolio PC
- * Date: 12.7.2017 г.
- * Time: 12:57
- */
+
 
 
 $arrQuotes=[
